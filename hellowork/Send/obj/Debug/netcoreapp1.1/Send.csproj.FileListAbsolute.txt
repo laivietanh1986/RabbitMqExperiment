@@ -1,0 +1,8 @@
+/home/laivietanh/core/rabitmq/hellowork/Send/bin/Debug/netcoreapp1.1/Send.deps.json
+/home/laivietanh/core/rabitmq/hellowork/Send/bin/Debug/netcoreapp1.1/Send.runtimeconfig.json
+/home/laivietanh/core/rabitmq/hellowork/Send/bin/Debug/netcoreapp1.1/Send.runtimeconfig.dev.json
+/home/laivietanh/core/rabitmq/hellowork/Send/bin/Debug/netcoreapp1.1/Send.dll
+/home/laivietanh/core/rabitmq/hellowork/Send/bin/Debug/netcoreapp1.1/Send.pdb
+/home/laivietanh/core/rabitmq/hellowork/Send/obj/Debug/netcoreapp1.1/Send.AssemblyInfo.cs
+/home/laivietanh/core/rabitmq/hellowork/Send/obj/Debug/netcoreapp1.1/Send.dll
+/home/laivietanh/core/rabitmq/hellowork/Send/obj/Debug/netcoreapp1.1/Send.pdb

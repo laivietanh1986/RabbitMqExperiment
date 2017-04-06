@@ -1,0 +1,8 @@
+/home/laivietanh/core/rabitmq/hellowork/Receive/bin/Debug/netcoreapp1.1/Receive.deps.json
+/home/laivietanh/core/rabitmq/hellowork/Receive/bin/Debug/netcoreapp1.1/Receive.runtimeconfig.json
+/home/laivietanh/core/rabitmq/hellowork/Receive/bin/Debug/netcoreapp1.1/Receive.runtimeconfig.dev.json
+/home/laivietanh/core/rabitmq/hellowork/Receive/bin/Debug/netcoreapp1.1/Receive.dll
+/home/laivietanh/core/rabitmq/hellowork/Receive/bin/Debug/netcoreapp1.1/Receive.pdb
+/home/laivietanh/core/rabitmq/hellowork/Receive/obj/Debug/netcoreapp1.1/Receive.AssemblyInfo.cs
+/home/laivietanh/core/rabitmq/hellowork/Receive/obj/Debug/netcoreapp1.1/Receive.dll
+/home/laivietanh/core/rabitmq/hellowork/Receive/obj/Debug/netcoreapp1.1/Receive.pdb
